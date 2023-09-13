@@ -1,2 +1,2 @@
 # DropAttack
-Code for DropAttack:A new methord to improve the transferability of  adversarial examples.
+Code for "DBA: An Efficient Approach to Boost Transfer-Based Adversarial Attack Performance Through Information Deletion".
